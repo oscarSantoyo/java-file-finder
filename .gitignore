@@ -1,8 +1,16 @@
 # Compiled class file
 *.class
+.classpath
+.project
 
 # Log file
 *.log
+
+# OS
+.DS_Store
+
+# Target
+target/
 
 # BlueJ files
 *.ctxt
